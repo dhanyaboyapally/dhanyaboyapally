@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanyaboyapally" alt="dhanyaboyapally" /></a> </p>
 
 - 🔭 I’m currently working on **US Citizen Database Management**
+-  🔭 I’m open to collabration for **Research work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
