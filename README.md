@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me throught email(
+- 📫 How to reach me throught email
 - 😄 Pronouns: her/she
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanyaboyapally&label=Profile%20views&color=0e75b6&style=flat" alt="dhanyaboyapally" /> </p>
