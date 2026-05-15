@@ -60,9 +60,10 @@ interests:
 - 💻 Teaching Assistant for Engineering
 - 🤖 Research Intern @ Quantum Innovation Center
 - 📄 Published in IEEE Xplore
+- 🧑‍💻 Supercomputing Conference Member
+- 🌎 AGU Member
 - 🏆 3rd Place — TigerHacks 2025
 - 🎓 Dean’s List — Fall 2024 & Fall 2025
-
 ---
 
 # 🧰 Languages and Tools
@@ -101,77 +102,111 @@ interests:
 
 ---
 
-# 📄 Publication
+## 📄 Research Publication
 
-## QSANN-ViQ
+<div align="center">
 
-**A Lightweight Quantum Self-Attention Vision Model for Explainable and Secure Edge Image Classification**
+### QSANN-ViQ  
+*A Lightweight Quantum Self-Attention Vision Model for Explainable and Secure Edge Image Classification*
 
-📄 Published in IEEE Xplore
+📚 Published in IEEE Xplore  
+
+<a href="https://doi.org/10.1109/QCE65121.2025.10476">
+  <img src="https://img.shields.io/badge/Read_Paper-IEEE_Xplore-0D1117?style=for-the-badge&logo=ieee" />
+</a>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌙 Night Safety Tracker
-### Agentic Multimodal Safety Routing Platform
+---
+
+## 🌱 AGBOT — AI Plant Health Monitoring System
+
+🔗 **Live Demo:** https://fs2025capstone-production.up.railway.app/
+
+AI-driven crop intelligence and plant health monitoring platform combining computer vision, multimodal AI, and decision-support systems for precision agriculture.
 
 ```diff
-+ Built RAG-powered operational risk analysis system
-+ Integrated SQL, CSV, PDF, and JSON data sources
-+ Generated citation-grounded summaries
-+ Implemented retrieve → verify → cite → act workflows
-+ Designed RBAC-ready controls and audit logging
++ AI-powered plant disease and stress detection
++ Intelligent crop monitoring workflows
++ Computer vision + decision-support integration
++ Full-stack deployment with live demo
++ Research-driven agricultural AI system
 ```
 
-**Tech:** React • REST APIs • RAG • LLMs • SQL • PDF/JSON Parsing
+**Tech Stack:**  
+Python • Flask • React • EfficientNet • AI/ML • Computer Vision
 
 ---
 
 ## 📚 Ulka Study Platform
-### AI-assisted Full Stack Learning Platform
+
+🔗 **Website:** https://ulkaa.study/
+
+Full-stack collaborative learning platform designed for students with secure workflows, scalable APIs, and modern web architecture.
 
 ```diff
-+ Built platform supporting 100+ users
-+ Developed secure REST APIs
-+ Implemented role-based access control
-+ Added audit-style activity tracking
-+ Accelerated development using AI-assisted workflows
++ Platform supporting 100+ users
++ Secure REST API architecture
++ Role-based access workflows
++ AI-assisted rapid feature development
++ Collaboration-focused student platform
 ```
 
-**Tech:** React.js • Node.js • RBAC • REST APIs
+**Tech Stack:**  
+React.js • Node.js • REST APIs • RBAC • MongoDB
 
 ---
 
-## 💰 iFINANCEAPP
-### Enterprise Finance Workflow Application
+## 🛡️ Student Safety Companion  
+### Campus Dispatch Copilot
+
+🔗 **Live Demo:** https://studentsafety-companion-o9ji.vercel.app/
+
+An AI-powered campus safety navigation system providing safe walking routes using crime analysis, emergency infrastructure mapping, and contextual safety recommendations.
 
 ```diff
-+ Built Java-based finance management system
-+ Designed MVC architecture
-+ Implemented JDBC persistence layer
-+ Modeled normalized MySQL database
-+ Generated automated reporting dashboards
++ Real-time safety-aware route generation
++ Crime data analysis integration
++ Emergency phone location mapping
++ Context-aware safety recommendations
++ AI-powered campus dispatch assistant
 ```
 
-**Tech:** Java • JDBC • MySQL • MVC
+**Tech Stack:**  
+React • AI APIs • Mapping APIs • Safety Analytics • Vercel
 
 ---
 
-## 🌱 AGBOT Plant Health Monitoring System
-### AI-driven Crop Intelligence Platform
+## 🌌 Lumi — Where Your Selves Meet
+
+🔗 **Live Demo:** https://web-dev-ii-final-project-ten.vercel.app/
+
+A persona-to-persona social matching platform built on the MEAN stack with AI-generated compatibility narratives powered by Hugging Face APIs.
+
+Instead of one static profile, users create multiple "selves" such as:
+- Career self
+- Weekend self
+- Creative self
+- Social self
+
+and match based on specific personality contexts.
 
 ```diff
-+ Developed AI-powered crop health monitoring workflow
-+ Integrated computer vision with decision-support logic
-+ Implemented plant disease and stress detection
-+ Built full-stack capstone demo system
++ Multi-persona social identity system
++ AI-generated compatibility narratives
++ Hugging Face Inference API integration
++ Dynamic persona matching workflows
++ Full-stack MEAN architecture
 ```
 
-**Tech:** Python • Flask • EfficientNet • AI/ML • React
+**Tech Stack:**  
+MongoDB • Express • Angular • Node.js • Hugging Face API • FastAPI • Python 3.11 • React 19
 
 ---
-
 # 🔬 Experience
 
 ## Research Assistant — University of Missouri (EECS)
@@ -207,6 +242,8 @@ interests:
 ```txt
 🏆 3rd Place — TigerHacks 2025
 📄 IEEE Xplore Publication
+🧑‍💻 Supercomputing Conference Member
+🌎 AGU Member
 🔬 Research Exhibitor — Supercomputing SC25
 🌎 Research Exhibitor — AGU 2025
 🎓 Dean’s List — Fall 2024
