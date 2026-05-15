@@ -16,11 +16,11 @@
   <img src="https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="ADD_LINKEDIN_HERE">
+<a href="https://www.linkedin.com/in/dhanya-boyapally-3262b731a/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="ADD_PORTFOLIO_LINK_HERE">
+<a href="https://dhanyaboyapally.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel" />
 </a>
 
@@ -295,11 +295,11 @@ learning_more_about:
 <img src="https://img.shields.io/badge/Email-bdhanyareddy05@gmail.com-0D1117?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="ADD_LINKEDIN_HERE">
+<a href="https://www.linkedin.com/in/dhanya-boyapally-3262b731a/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="ADD_PORTFOLIO_LINK_HERE">
+<a href="https://dhanyaboyapally.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel" />
 </a>
 
