@@ -1,5 +1,5 @@
 <div align="center">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F79A,100:8A2BE2&height=140&section=header&text=Dhanya%20Boyapally&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 # Hi there, I'm Dhanya Boyapally 👋
 
 ### AI • Data Engineering • Quantum ML • Cybersecurity • Research
@@ -65,7 +65,13 @@ interests:
 - 🏆 3rd Place — TigerHacks 2025
 - 🎓 Dean’s List — Fall 2024 & Fall 2025
 ---
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanyaboyapally&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
 # 🧰 Languages and Tools
 
 <p align="center">
@@ -271,34 +277,21 @@ MongoDB • Express • Angular • Node.js • Hugging Face API • FastAPI •
 </p>
 
 ---
+---
 
-# 📌 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/dhanyaboyapally/FS2025_Capstone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyaboyapally&repo=FS2025_Capstone&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/dhanyaboyapally/iFINANCEAPP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyaboyapally&repo=iFINANCEAPP&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</p>
+# 📈 Contribution Activity
 
 <p align="center">
-
-<a href="https://github.com/dhanyaboyapally/Night-Safety-Tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyaboyapally&repo=Night-Safety-Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/dhanyaboyapally/Ulka-Study-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanyaboyapally&repo=Ulka-Study-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyaboyapally&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F79A&line=8A2BE2&point=FFFFFF" />
 </p>
 
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhanyaboyapally/dhanyaboyapally/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 # 🧩 Current Focus
 
@@ -351,3 +344,10 @@ learning_more_about:
 <img src="https://komarev.com/ghpvc/?username=dhanyaboyapally&style=for-the-badge&color=00F79A" />
 
 </div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhanyaboyapally&style=for-the-badge&color=00F79A" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F79A&height=120&section=footer" />
