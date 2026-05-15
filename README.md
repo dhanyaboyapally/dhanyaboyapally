@@ -287,12 +287,6 @@ MongoDB • Express • Angular • Node.js • Hugging Face API • FastAPI •
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dhanyaboyapally/dhanyaboyapally/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 # 🧩 Current Focus
 
 ```yaml
@@ -344,10 +338,8 @@ learning_more_about:
 <img src="https://komarev.com/ghpvc/?username=dhanyaboyapally&style=for-the-badge&color=00F79A" />
 
 </div>
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanyaboyapally&style=for-the-badge&color=00F79A" />
-</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F79A&height=120&section=footer" />
